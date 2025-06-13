@@ -1,0 +1,91 @@
+pizza_name_id,weekly_estimated_pizzas,pizza_size,pizza_name
+big_meat_s,38,S,The Big Meat Pizza
+five_cheese_l,29,L,The Five Cheese Pizza
+thai_ckn_l,28,L,The Thai Chicken Pizza
+four_cheese_l,26,L,The Four Cheese Pizza
+classic_dlx_m,23,M,The Classic Deluxe Pizza
+bbq_ckn_m,22,M,The Barbecue Chicken Pizza
+hawaiian_s,22,S,The Hawaiian Pizza
+cali_ckn_l,21,L,The California Chicken Pizza
+spicy_ital_l,21,L,The Spicy Italian Pizza
+southw_ckn_l,21,L,The Southwest Chicken Pizza
+pepperoni_m,20,M,The Pepperoni Pizza
+hawaiian_l,20,L,The Hawaiian Pizza
+mexicana_l,19,L,The Mexicana Pizza
+ital_supr_m,19,M,The Italian Supreme Pizza
+cali_ckn_m,18,M,The California Chicken Pizza
+classic_dlx_s,18,S,The Classic Deluxe Pizza
+bbq_ckn_l,17,L,The Barbecue Chicken Pizza
+pepperoni_s,16,S,The Pepperoni Pizza
+ckn_alfredo_m,16,M,The Chicken Alfredo Pizza
+peppr_salami_l,16,L,The Pepper Salami Pizza
+ital_supr_l,16,L,The Italian Supreme Pizza
+pepperoni_l,15,L,The Pepperoni Pizza
+four_cheese_m,15,M,The Four Cheese Pizza
+sicilian_l,15,L,The Sicilian Pizza
+prsc_argla_m,15,M,The Prosciutto and Arugula Pizza
+sicilian_s,15,S,The Sicilian Pizza
+ital_cpcllo_l,15,L,The Italian Capocollo Pizza
+veggie_veg_m,14,M,The Vegetables + Vegetables Pizza
+pep_msh_pep_s,14,S,"The Pepperoni, Mushroom, and Peppers Pizza"
+the_greek_xl,14,XL,The Greek Pizza
+sicilian_m,14,M,The Sicilian Pizza
+thai_ckn_s,14,S,The Thai Chicken Pizza
+thai_ckn_m,14,M,The Thai Chicken Pizza
+spinach_fet_m,14,M,The Spinach and Feta Pizza
+spicy_ital_m,14,M,The Spicy Italian Pizza
+southw_ckn_m,14,M,The Southwest Chicken Pizza
+mexicana_m,14,M,The Mexicana Pizza
+veggie_veg_s,14,S,The Vegetables + Vegetables Pizza
+bbq_ckn_s,14,S,The Barbecue Chicken Pizza
+ital_veggie_m,14,M,The Italian Vegetables Pizza
+ckn_pesto_s,14,S,The Chicken Pesto Pizza
+classic_dlx_l,14,L,The Classic Deluxe Pizza
+brie_carre_s,14,S,The Brie Carre Pizza
+calabrese_m,14,M,The Calabrese Pizza
+cali_ckn_s,14,S,The California Chicken Pizza
+hawaiian_m,14,M,The Hawaiian Pizza
+green_garden_s,14,S,The Green Garden Pizza
+mediterraneo_l,13,L,The Mediterranean Pizza
+spin_pesto_s,13,S,The Spinach Pesto Pizza
+soppressata_l,13,L,The Soppressata Pizza
+southw_ckn_s,13,S,The Southwest Chicken Pizza
+prsc_argla_s,13,S,The Prosciutto and Arugula Pizza
+spicy_ital_s,13,S,The Spicy Italian Pizza
+prsc_argla_l,13,L,The Prosciutto and Arugula Pizza
+mediterraneo_m,13,M,The Mediterranean Pizza
+pep_msh_pep_l,13,L,"The Pepperoni, Mushroom, and Peppers Pizza"
+napolitana_s,13,S,The Napolitana Pizza
+veggie_veg_l,13,L,The Vegetables + Vegetables Pizza
+mediterraneo_s,13,S,The Mediterranean Pizza
+peppr_salami_m,12,M,The Pepper Salami Pizza
+spinach_fet_l,12,L,The Spinach and Feta Pizza
+napolitana_l,12,L,The Napolitana Pizza
+ital_cpcllo_m,12,M,The Italian Capocollo Pizza
+ckn_pesto_m,11,M,The Chicken Pesto Pizza
+ckn_pesto_l,11,L,The Chicken Pesto Pizza
+napolitana_m,11,M,The Napolitana Pizza
+pep_msh_pep_m,11,M,"The Pepperoni, Mushroom, and Peppers Pizza"
+peppr_salami_s,11,S,The Pepper Salami Pizza
+spinach_supr_m,10,M,The Spinach Supreme Pizza
+spinach_fet_s,10,S,The Spinach and Feta Pizza
+green_garden_m,10,M,The Green Garden Pizza
+spin_pesto_m,10,M,The Spinach Pesto Pizza
+ital_cpcllo_s,10,S,The Italian Capocollo Pizza
+ital_veggie_s,9,S,The Italian Vegetables Pizza
+the_greek_m,9,M,The Greek Pizza
+soppressata_s,9,S,The Soppressata Pizza
+ital_supr_s,8,S,The Italian Supreme Pizza
+spinach_supr_l,8,L,The Spinach Supreme Pizza
+spinach_supr_s,8,S,The Spinach Supreme Pizza
+spin_pesto_l,8,L,The Spinach Pesto Pizza
+calabrese_l,8,L,The Calabrese Pizza
+the_greek_l,8,L,The Greek Pizza
+the_greek_s,8,S,The Greek Pizza
+ital_veggie_l,8,L,The Italian Vegetables Pizza
+soppressata_m,8,M,The Soppressata Pizza
+green_garden_l,7,L,The Green Garden Pizza
+calabrese_s,7,S,The Calabrese Pizza
+ckn_alfredo_l,7,L,The Chicken Alfredo Pizza
+mexicana_s,7,S,The Mexicana Pizza
+ckn_alfredo_s,7,S,The Chicken Alfredo Pizza
